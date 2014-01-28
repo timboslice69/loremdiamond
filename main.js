@@ -3,7 +3,7 @@
  */
 
 	var options = {
-		paragraphs: 1,
+		paragraphs: 2,
 		sentances: 1
 	};
 
