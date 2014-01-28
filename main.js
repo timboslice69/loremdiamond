@@ -23,7 +23,7 @@ function submitForm(){
 
 function generateText(paragraphs, sentances){
 	var container = document.getElementById('theText'),
-		html = '',
+		html = '<p>To All,</p>',
 		i,
 		j;
 
@@ -36,6 +36,8 @@ function generateText(paragraphs, sentances){
 		}
 		html = html + '</p>\n';
 	}
+
+	html = html + '<p>-- Harris</p>';
 
 	container.innerHTML = html;
 }

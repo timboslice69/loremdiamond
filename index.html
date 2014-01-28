@@ -2,6 +2,7 @@
 <html>
 <head>
 	<title>Lorem Diamond</title>
+	<link media="screen, projection" rel="stylesheet" type="text/css" href="screen.css">
 	<script type="text/javascript" src="sentances.js"></script>
 	<script type="text/javascript" src="main.js"></script>
 </head>
@@ -9,16 +10,19 @@
 	<header>
 		<h1>Lorem Diamond dummy text generator</h1>
 		<p></p>
+		<fieldset>
+			<label>Paragraphs</label>
+			<input type="text" id="paragraphs_input" value="5">
+			<label>Sentances per paragraph</label>
+			<input type="text" id="sentances_input" value="6">
+			<input type="submit" value="go" onclick="submitForm()">
+		</fieldset>
 	</header>
+
+
 	<div id="theText"></div>
 
-	<fieldset>
-		<label>Paragraphs</label>
-		<input type="text" id="paragraphs_input" value="5">
-		<label>Sentances per paragraph</label>
-		<input type="text" id="sentances_input" value="6">
-		<input type="submit" value="go" onclick="submitForm()">
-	</fieldset>
+
 
 </body>
 </html>
