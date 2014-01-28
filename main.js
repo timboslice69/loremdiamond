@@ -37,7 +37,7 @@ function generateText(paragraphs, sentances){
 		html = html + '</p>\n';
 	}
 
-	html = html + '<p>-- Harris</p>';
+	html = html + '<p>-- Diamond</p>';
 
 	container.innerHTML = html;
 }

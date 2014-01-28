@@ -61,16 +61,16 @@ var sentances = [
 	"North America continues to win significant new business across a broad spectrum of clients",
 	"And, while consumer spending has not yet rebounded across Europe, the region added some important local assignments and spearheaded our multinational Zurich and Carlsberg wins",
 	"Momentum, MRM and McCann Health continue to make strides in their respective sectors and have all been recently recognized as best-in-class agencies in their respective disciplines",
-	"With McCann Melbourne's record-breaking performance for “Dumb Ways to Die” at Cannes still fresh in our minds, please join me in once again congratulating the team on their performance and to again congratulate all the creatively-recognized offices and teams who contributed to our incredible success at the award shows this year",
+	"With McCann Melbourne's record-breaking performance for 'Dumb Ways to Die' at Cannes still fresh in our minds, please join me in once again congratulating the team on their performance and to again congratulate all the creatively-recognized offices and teams who contributed to our incredible success at the award shows this year",
 	"Overall, our recent new business and creative momentum has strengthened our reputation, enhanced our ability to demonstrate the vitality of our multiplatform approach and expanded our opportunities to cross-sell our multifaceted competencies to current and potential clients",
 	"For those of you who are on or are planning to go on holiday over the summer, I hope you enjoy",
 	"Keep up the good work and look forward to a great remainder of the year",
 	"Last night, in front of a cheering crowd of approximately 1,100 of our industry peers, we were awarded top honors for our creative work at the D&AD Awards 2013 in London, widely considered one of the most prestigious awards for advertising and art direction",
-	"We won more awards than ever and our Melbourne office was awarded a world-record-breaking five Yellow Pencils (recognizing the industry's most outstanding work) and a Black Pencil (the show's rarest and most coveted honor) for its “Dumb Ways To Die” campaign, an amazing performance that resulted in Melbourne being named D&AD's “Agency Of The Year",
-	"London also won a Yellow Pencil for the “Games Maker” campaign for the London Olympics and The Martin Agency won a Yellow Pencil for the “Clouds Over Cuba” campaign for The JFK Presidential Library & Museum",
+	"We won more awards than ever and our Melbourne office was awarded a world-record-breaking five Yellow Pencils (recognizing the industry's most outstanding work) and a Black Pencil (the show's rarest and most coveted honor) for its 'Dumb Ways To Die' campaign, an amazing performance that resulted in Melbourne being named D&AD's 'Agency Of The Year'",
+	"London also won a Yellow Pencil for the 'Games Maker' campaign for the London Olympics and The Martin Agency won a Yellow Pencil for the 'Clouds Over Cuba' campaign for The JFK Presidential Library & Museum",
 	"As you know from my previous notes, 2013 is shaping up as a fantastic year for our clients' businesses and for our creative reputation",
 	"We have made impressive showings at all of the global, regional and local awards shows this year",
-	"We have also won a significant amount of new business and have been awarded organic businessopportunities from our existing clients",
+	"We have also won a significant amount of new business and have been awarded organic business opportunities from our existing clients",
 	"I want everyone to know how proud I am of the work you are doing",
 	"Please join me in congratulating our folks in Australia and London and our friends at The Martin Agency for their award-winning work",
 	"I am very pleased to announce that Suzanne Powers will join us as our new Global Chief Strategy Officer",
@@ -99,4 +99,4 @@ var sentances = [
 	"Bill will work closely and collaboratively with the Commonwealth leadership team of Linus Karlsson, Joe Garcia,Kate MacNevin and Matt Woehrmann",
 	"He will also have oversight of all of our Detroit operations",
 	"Please join me in congratulating Bill on his new role"
-]
+];
