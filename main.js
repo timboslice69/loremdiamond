@@ -4,7 +4,7 @@
 
 	var options = {
 		paragraphs: 5,
-		sentances: 6
+		sentances: 3
 	};
 
 
