@@ -9,7 +9,7 @@
 
 
 function randomSentance(){
-	var r = Math.floor((Math.random()*sentances.length)+1);
+	var r = Math.floor((Math.random()*sentances.length -1)+1);
 	if(typeof(options.lastSentanceIndex) == 'undefined') options.lastSentanceIndex = null;
 	if (r == options.lastSentanceIndex)	return randomSentance();
 	options.lastSentanceIndex = r;
@@ -27,6 +27,9 @@ function generateText(paragraphs, sentances){
 		i,
 		j;
 
+	if (typeof(paragraphs) == 'undefined') paragraphs = options.paragraphs;
+	if (typeof(sentances) == 'undefined') sentances = options.sentances;
+
 	container.innerHTML = '';
 
 	for (i = 0; i < paragraphs; i++){
@@ -43,6 +46,6 @@ function generateText(paragraphs, sentances){
 }
 
 window.onload = function(){
-
-	generateText(options.paragraphs, options.sentances);
+	generateText();
+	document.getElementById('generate_form').onSubmit = submitForm;
 };

@@ -14,19 +14,22 @@
 	<header>
 		<h1>Lorem diamond email generator</h1>
 		<p></p>
-		<form onsubmit="return false;">
+		<form id="generate_form" onsubmit="submitForm(); return false;">
 			<fieldset>
 				<legend>Generate lorem diamond</legend>
 				<div class="control">
 					<label>Paragraphs</label>
-					<input type="text" id="paragraphs_input" value="5">
+					<input type="number" min="0" id="paragraphs_input" value="5">
 				</div>
 				<div class="control">
 					<label>Sentances per paragraph</label>
-					<input type="text" id="sentances_input" value="6">
+					<input type="number" min="0" id="sentances_input" value="6">
 				</div>
 				<div class="control actions">
-					<input type="submit" value="Generate" id="go" onclick="submitForm()">
+					<input type="submit" value="Generate" id="go">
+				</div>
+				<div class="control actions">
+					<a href="javascript:generateText(2,1)">Quick Email</a> | <a href="javascript:generateText(1,1)">One line</a>
 				</div>
 			</fieldset>
 		</form>
