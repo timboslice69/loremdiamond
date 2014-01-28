@@ -10,13 +10,20 @@
 	<header>
 		<h1>Lorem Diamond dummy text generator</h1>
 		<p></p>
-		<fieldset>
-			<label>Paragraphs</label>
-			<input type="text" id="paragraphs_input" value="5">
-			<label>Sentances per paragraph</label>
-			<input type="text" id="sentances_input" value="6">
-			<input type="submit" value="go" onclick="submitForm()">
-		</fieldset>
+		<form>
+			<fieldset>
+				<legend>Generate Lorem Diamond</legend>
+				<div class="control">
+					<label>Paragraphs</label>
+					<input type="text" id="paragraphs_input" value="5">
+				</div>
+				<div class="control">
+					<label>Sentances per paragraph</label>
+					<input type="text" id="sentances_input" value="6">
+				</div>
+				<input type="submit" value="go" id="go" onclick="submitForm()">
+			</fieldset>
+		</form>
 	</header>
 
 
