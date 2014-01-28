@@ -93,7 +93,7 @@ var sentances = [
 	"Bill is one of our most experienced multiplatform and global marketing executives",
 	"He first joined McCann Worldgroup 12 years ago as head of an expanded international Retail Marketing Group and then became COO of Momentum",
 	"He later moved to the dedicated MRM COO position in 2006",
-	"As previously announced, heading MRM will be co-presidents Michael Mclaren andHank Summy, both of whom took on new global MRM roles in April",
+	"As previously announced, heading MRM will be co-presidents Michael Mclaren and Hank Summy, both of whom took on new global MRM roles in April",
 	"Bill's record at MRM has been impressive, in both driving the agency's overall growth and reputation",
 	"Bill brings to our global GM business the kind of collaborative, energetic and insightful leadership that will help us continue to partner with this important client",
 	"Bill will work closely and collaboratively with the Commonwealth leadership team of Linus Karlsson, Joe Garcia,Kate MacNevin and Matt Woehrmann",
